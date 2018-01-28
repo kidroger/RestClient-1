@@ -1,5 +1,5 @@
 # RestClient
-A lightweight REST client for Java leveraging the HttpClient Fluent API.
+A lightweight REST client for Java leveraging the [HttpClient Fluent API](https://hc.apache.org/httpcomponents-client-ga/tutorial/html/fluent.html).
 
 ## Motivation
 During an AWS Lambda(Java) project, I needed a lightweight REST client for Java, as I need to minimize the deployment package size as small as possible. I couldn't find a good one for this purpose.<br/><br/>
